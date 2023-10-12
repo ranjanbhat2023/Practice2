@@ -1,6 +1,7 @@
 This is main branch file.
+Added 2nd line here just to see.
 This file is for git practice.
 This file i again edited just for the sake for practice.
 Here i added line from branch 1 which i merged with main branch. hoolala
 Here i want to add line 5 also to merge with main branch. Slightly added something here.
-
+Now added 7th line also for checking.
