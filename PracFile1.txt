@@ -1,4 +1,4 @@
-This is main branch file.
+dThis is main branch file.
 This file is for git practice.
 This file i again edited just for the sake for practice.
-Here i added line from branch 1 which i will merge now with main branch
+Here i added line from branch 1 which i merged with main branch
