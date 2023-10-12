@@ -1,5 +1,6 @@
 This is main branch file.
 This file is for git practice.
 This file i again edited just for the sake for practice.
-Here i added line from branch 1 which i merged with main branch
-5th Line added in main branch
+Here i added line from branch 1 which i merged with main branch. hoolala
+Here i want to add line 5 also to merge with main branch
+
