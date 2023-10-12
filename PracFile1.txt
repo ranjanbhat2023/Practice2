@@ -7,4 +7,8 @@ Here i want to add line 5 also to merge with main branch. Slightly added somethi
 Now added 7th line also for checking. Here i did some addition.
 I changed 8th line.
 Brock lesnar just to chck on line 9th
+
+Line 10 added in branch-1 as well.
+
 Main me line 10 add kiya
+
